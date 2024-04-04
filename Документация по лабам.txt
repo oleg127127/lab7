@@ -1,0 +1,17 @@
+Лаба 1:
+git init
+git add .
+git commit -m "comment"
+
+
+Лаба 2:
+mkdir directory_name
+touch filename
+nano filename - переход в тектовый редактор
+Ctrl + X - выход из текстового редактора -> Y -> Enter
+rm - r directoryname - удаление директории
+rm filename - удаление файла
+
+
+
+
