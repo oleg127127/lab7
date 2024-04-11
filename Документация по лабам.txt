@@ -2,6 +2,9 @@
 git init
 git add .
 git commit -m "comment"
+git log - отображает историю коммитов в репозитории
+ls -a -какие файлы сохранены
+git status - статус файлов, закомичены или нет
 
 
 Лаба 2:
@@ -12,6 +15,8 @@ Ctrl + X - выход из текстового редактора -> Y -> Enter
 rm - r directoryname - удаление директории
 rm filename - удаление файла
 
-
+git config --global core.autocrlf input - чтобы он сохранял файлы с LF вместо CRLF в системах Windows
+LF (Line Feed): Этот символ, также известный как '\n'
+CRLF (Carriage Return + Line Feed): Эта комбинация символов, известная как '\r\n'
 
 
